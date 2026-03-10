@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  airflow:
+    image: apache/airflow:2.7.1
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./airflow_dags:/opt/airflow/dags
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor

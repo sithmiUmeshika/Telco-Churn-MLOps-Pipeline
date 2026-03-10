@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/My plus computers/OneDrive/Desktop/Churn_Project/mlruns/111987352974609159/models/m-4376bc528b0440e3a5a131d2c1fa326a/artifacts
+creation_timestamp: 1773137346609
+experiment_id: '111987352974609159'
+last_updated_timestamp: 1773137359108
+model_id: m-4376bc528b0440e3a5a131d2c1fa326a
+model_type: null
+name: model
+source_run_id: dcea90dcd13f4890ab34927e415da7aa
+status: 2
+status_message: null
